@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+build/fastlink/.vs
+build/fastlink/Debug
+*.pdb
+*.ilk
